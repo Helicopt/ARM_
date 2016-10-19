@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Main.SchDoc
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_02-Memory|SchDesignator=U_02-Memory|FileName=02-Memory.SchDoc|SymbolType=Device Sheet|RawFileName=02-Memory|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_CPU-0|SchDesignator=U_CPU-0|FileName=CPU-0.SchDoc|SymbolType=Device Sheet|RawFileName=CPU-0|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_DM|SchDesignator=U_DM|FileName=DM.SchDoc|SymbolType=Device Sheet|RawFileName=DM|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_DVC|SchDesignator=U_DVC|FileName=DVC.SchDoc|SymbolType=Device Sheet|RawFileName=DVC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
