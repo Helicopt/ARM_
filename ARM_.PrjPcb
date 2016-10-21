@@ -90,23 +90,6 @@ GenerateClassCluster=0
 DocumentUniqueId=CJMPVYJF
 
 [Document4]
-DocumentPath=CPU-0.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TNPNFUBA
-
-[Document5]
 DocumentPath=DVC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,6 +105,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YPOADPAS
+
+[Document5]
+DocumentPath=CPU-0.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TNPNFUBA
 
 [Document6]
 DocumentPath=Main.SchDoc
